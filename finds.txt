@@ -1,0 +1,90 @@
+{
+	'type': 'rich', 
+	'description': "Here's what I could find.", 
+	'thumbnail': {
+		'width': 128,
+		'height': 128,
+		'url': 'https://cdn.discordapp.com/icons/408978571407654934/a6c4bbf185d8516dff1cf2c47e574e2f.jpg',
+		'proxy_url': 'https://images-ext-2.discordapp.net/external/vc4uI6H2epMRi5Fglkdc1qdk8nyeQWHrUJMy1W4geLI/https/cdn.discordapp.com/icons/408978571407654934/a6c4bbf185d8516dff1cf2c47e574e2f.jpg'
+	},
+	'color': 2003199,
+	'author': {'name': 'Will Ryan of DAGames'},
+	'fields': [
+		{'inline': True, 'value': 'TESTE BOTS', 'name': 'Name'},
+		{'inline': True, 'value': '408978571407654934', 'name': 'ID'},
+		{'inline': True, 'value': 'canal1', 'name': 'Channel Name'},
+		{'inline': True, 'value': '408978663183351813', 'name': 'Channel ID'},
+		{'inline': True, 'value': '2', 'name': 'Roles'},
+		{'inline': True, 'value': '2', 'name': 'Members'}
+	]
+}
+
+
+{"showCurrentGame":true,"inlineAttachmentMedia":true,"inlineEmbedMedia":true,"renderEmbeds":true,"renderReactions":true,"animateEmoji":true,"theme":"dark","enableTTSCommand":true,"messageDisplayCompact":false,"locale":"en-US","convertEmoticons":true,"restrictedGuilds":[],"friendSourceFlags":{"all":true},"developerMode":false,"guildPositions":["336642139381301249","310074992509583372","377495584761708544","347785138320441346","177387572505346048","123584087683235840","208436903735853057","336294479348891659","204338767920758785"],"detectPlatformAccounts":true,"status":"online","explicitContentFilter":1,"defaultGuildsRestricted":false,"afkTimeout":600,"timezoneOffset":120,"sync":{}}
+
+[SERVER LOG] :: Aron♂#0000 SAYS  ON NeoScan/battlefield
+{'height': 128, 'proxy_url': 'https://images-ext-2.discordapp.net/external/tnwAqNlju7mUHs0n0qcfTAsBChp3hFodTPpgGShTcnc/https/raw.githubusercontent.com/Gladiator10864/PokeAlarm/master/icons/304.png', 'url': 'https://raw.githubusercontent.com/Gladiator10864/PokeAlarm/master/icons/304.png', 'width': 128}
+rich
+http://maps.google.com/maps?q=-25.3873153816,-49.1824035465
+{'height': 125, 'proxy_url': 'https://images-ext-1.discordapp.net/external/pyJ-omLKm_SukWsbO5eTajuxfuHKXC565I-r8iNXC48/%3Fcenter%3D-25.3873153816%2C-49.1824035465%26markers%3Dcolor%3Ared%257C-25.3873153816%2C-49.1824035465%26maptype%3Droadmap%26size%3D250x125%26zoom%3D15%26key%3DAIzaSyDwvEqKztNhDIjA02QFuX-3PB03iBhV-tM/https/maps.googleapis.com/maps/api/staticmap', 'url': 'https://maps.googleapis.com/maps/api/staticmap?center=-25.3873153816,-49.1824035465&markers=color:red%7C-25.3873153816,-49.1824035465&maptype=roadmap&size=250x125&zoom=15&key=AIzaSyDwvEqKztNhDIjA02QFuX-3PB03iBhV-tM', 'width': 250}
+IVs: 57.8% (7/7/12) 
+CP: 1007 
+Level:33  
+Moves: Tackle / Rock Tomb
+http://maps.google.com/maps?q=-25.3873153816,-49.1824035465 
+Clima: :partly_sunny: 
+Disponível até 18:45:46 (29m 58s).
+Local: Atuba/Colombo
+
+
+[]
+[SERVER LOG] :: Aron♂#0000 SAYS  ON NeoScan/battlefield
+[{'type': 'rich', 'url': 'http://maps.google.com/maps?q=-25.4262758609,-49.3196813206', 'thumbnail': {'url': 'https://raw.githubusercontent.com/Gladiator10864/PokeAlarm/master/icons/304.png', 'height': 128, 'width': 128, 'proxy_url': 'https://images-ext-2.discordapp.net/external/tnwAqNlju7mUHs0n0qcfTAsBChp3hFodTPpgGShTcnc/https/raw.githubusercontent.com/Gladiator10864/PokeAlarm/master/icons/304.png'}, 'title': 'Local: Santo Inacio/Curitiba', 'image': {'url': 'https://maps.googleapis.com/maps/api/staticmap?center=-25.4262758609,-49.3196813206&markers=color:red%7C-25.4262758609,-49.3196813206&maptype=roadmap&size=250x125&zoom=15&key=AIzaSyDwvEqKztNhDIjA02QFuX-3PB03iBhV-tM', 'height': 125, 'width': 250, 'proxy_url': 'https://images-ext-1.discordapp.net/external/jBGmMJS8ixU4oyimw_C_Dachm1jA7XcsFrKNeotuVdc/%3Fcenter%3D-25.4262758609%2C-49.3196813206%26markers%3Dcolor%3Ared%257C-25.4262758609%2C-49.3196813206%26maptype%3Droadmap%26size%3D250x125%26zoom%3D15%26key%3DAIzaSyDwvEqKztNhDIjA02QFuX-3PB03iBhV-tM/https/maps.googleapis.com/maps/api/staticmap'}, 'description': 'IVs: 82.2% (9/14/14) \nCP: 1035 \nLevel:32  \nMoves: Tackle / Iron Head\nhttp://maps.google.com/maps?q=-25.4262758609,-49.3196813206 \nClima: :partly_sunny: \nDisponível até 19:48:22 (29m 57s).'}]
+
+[SERVER LOG] :: Aron♂#0000 SAYS  ON NeoScan/battlefield
+
+[
+{
+	"type": "rich",
+	"url": "http://maps.google.com/maps?q=-25.4527878443,-49.3388660262",
+	"thumbnail": {
+		"url": "https://raw.githubusercontent.com/Gladiator10864/PokeAlarm/master/icons/304.png",
+		"height": 128,
+		"width": 128,
+		"proxy_url": "https://images-ext-2.discordapp.net/external/tnwAqNlju7mUHs0n0qcfTAsBChp3hFodTPpgGShTcnc/https/raw.githubusercontent.com/Gladiator10864/PokeAlarm/master/icons/304.png"
+	},
+	"title": "Local: Campo Comprido/Curitiba",
+	"image": {
+		"url": "https://maps.googleapis.com/maps/api/staticmap?center=-25.4527878443,-49.3388660262&markers=color:red%7C-25.4527878443,-49.3388660262&maptype=roadmap&size=250x125&zoom=15&key=AIzaSyDwvEqKztNhDIjA02QFuX-3PB03iBhV-tM", "height": 125, "width": 250, "proxy_url": "https://images-ext-1.discordapp.net/external/Trs8cu6z4ER5eXgVPWsOQPQKzos1tXL0Si8Ra9KtNhU/%3Fcenter%3D-25.4527878443%2C-49.3388660262%26markers%3Dcolor%3Ared%257C-25.4527878443%2C-49.3388660262%26maptype%3Droadmap%26size%3D250x125%26zoom%3D15%26key%3DAIzaSyDwvEqKztNhDIjA02QFuX-3PB03iBhV-tM/https/maps.googleapis.com/maps/api/staticmap"},
+	"description": "IVs: 46.7% (7/4/10) \nCP: 1021 \nLevel:35  \nMoves: Metal Claw / Iron Head\nhttp://maps.google.com/maps?q=-25.4527878443,-49.3388660262 \nClima: :partly_sunny: \nDisponível até 19:44:43 (26m 17s)."}
+]
+
+
+
+
+{
+  "embed": {
+    "title": "Local: Campo Comprido/Curitiba",
+    "description":   "IVs: 46.7% (7/4/10) 
+    				\nCP: 1021 \nLevel:35  
+    				\nMoves: Metal Claw / Iron Head
+    				\nhttp://maps.google.com/maps?q=-25.4527878443,-49.3388660262 
+    				\nClima: :partly_sunny: 
+    				\nDisponível até 19:44:43 (26m 17s).",
+    "url": "http://maps.google.com/maps?q=-25.4527878443,-49.3388660262",
+    "color": 2003199,
+    "thumbnail": {
+		"url": "https://raw.githubusercontent.com/Gladiator10864/PokeAlarm/master/icons/304.png"
+    },
+    "image": {
+		  "url": "https://maps.googleapis.com/maps/api/staticmap?center=-25.4527878443,-49.3388660262&markers=color:red%7C-25.4527878443,-49.3388660262&maptype=roadmap&size=250x125&zoom=15&key=AIzaSyDwvEqKztNhDIjA02QFuX-3PB03iBhV-tM"
+    },
+    "author": {
+      "name": "Aron♂",
+      "url": "https://discordapp.com",
+      "icon_url": "https://raw.githubusercontent.com/Gladiator10864/PokeAlarm/master/icons/304.png"
+    },
+    "fields": []
+  }
+  
+}
